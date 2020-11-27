@@ -1,0 +1,16 @@
+{
+  "title": "Population Dataset",
+  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Dataset"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "de_catalog_id": "Population_Dataset_dataset_1606458588272",
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2"
+}
