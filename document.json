@@ -1,33 +1,41 @@
 {
-  "name": "Population Dataset",
+  "name": "Population Dataset Demo",
   "description": "Population figures for countries, regions (e.g. Asia) and the world.",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "de_catalog_id": "Population_Dataset_dataset_1606458588272",
+  "de_catalog_id": "Population_Dataset Demo_dataset_1606717050270",
   "source_repo": "https://github.com/datasets/population.git",
-  "use_explorer_dataset": false,
-  "explorer_catalog_id": "",
-  "is_s3_type": "",
-  "buckets": [],
+  "cover": "cover.md",
   "meta": {
     "Install time": [
-      "2"
+      "2 minutes"
     ],
     "Type": [
       "Dataset"
     ],
-    "Dataset": [
-      ""
+    "Tag": [
+      "CSV"
     ],
     "Catalog Id": [
-      "Population_Dataset_dataset_1606458588272"
+      "Population_Dataset Demo_dataset_1606717050270"
     ],
-    "Buckets": [],
-    "License and Use Rights": "Apache",
-    "Last Updated": "Dec 07 2020",
-    "Contact": "freedavales@xyz.com",
-    "Preferred Platform": "Openshift",
-    "Usage example": "",
-    "Managed By": "Me"
+    "License and Use Rights": [
+      "Apache"
+    ],
+    "Last Updated": [
+      "Nov 23 2020"
+    ],
+    "Contact": [
+      "freedavales@xyz.com"
+    ],
+    "Preferred Platform": [
+      "OpenShift / Kubernetes"
+    ],
+    "Usage example": [
+      ""
+    ],
+    "Managed By": [
+      "Edge Dev"
+    ]
   }
 }
